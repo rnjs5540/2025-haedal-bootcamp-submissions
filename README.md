@@ -13,7 +13,7 @@ problems/
    ├─ problem-17608.c
    ├─ problem-10988.c
    └─ … (총 10개)
-
+```
 
 
 ## 📌 PR 작성 규칙
