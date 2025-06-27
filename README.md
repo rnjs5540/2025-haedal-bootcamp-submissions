@@ -7,11 +7,13 @@
 2. `problems/<BOJ_ID>/` 폴더 생성  
 3. 그 안에 C 파일 10개(`problem-<번호>.c`) 업로드  
 
+```text
 problems/
 └─ <BOJ_ID>/
-├─ problem-17608.c
-├─ problem-10988.c
-└─ … (총 10개)
+   ├─ problem-17608.c
+   ├─ problem-10988.c
+   └─ … (총 10개)
+
 
 
 ## 📌 PR 작성 규칙
