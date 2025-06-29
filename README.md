@@ -43,6 +43,11 @@ problems/
   | ------ | -------------- |
   | 10988   | 팰린드롬인지 확인하기   |
   | …      | …             |
+<img width="952" alt="스크린샷 2025-06-29 23 30 31" src="https://github.com/user-attachments/assets/606f06e3-f25d-443f-b841-0c7de6ea1488" />
+- **Create Pull request** 클릭 
 
+
+
+## 통과 확인 <img width="575" alt="스크린샷 2025-06-30 00 20 23" src="https://github.com/user-attachments/assets/d6000358-7c2a-43d8-a9ba-ba2a93cd28c3" />
 
 ## 백준에서 코드 제출 할 때 **공개**로 작성해주세요 
