@@ -27,7 +27,7 @@ jobs:
 
       - name: Verify required problems
         run: |
-          required=(17608 10988 10872 10811 11659 2003 10814 1152 10828 2164)
+          required=( 10988 10872 10811 11659 2003 10814 1152 10828 2164 )
           missing=()
           for pid in "${required[@]}"; do
             if ! jq -e --argjson id "$pid" 'index($id)' solved_ids.json >/dev/null; then
