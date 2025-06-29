@@ -6,12 +6,11 @@
 1. 이 레포를 **Fork**
 2. VSC에서 clone
 3. `problems/<BOJ_ID>/` 폴더 생성  
-4. 그 안에 C 파일 10개(`problem-<번호>.c`) 생성
+4. 그 안에 C 파일 9개(`problem-<번호>.c`) 생성
 
 ```text
 problems/
 └─ <BOJ_ID>/
-   ├─ problem-17608.c
    ├─ problem-10988.c
    ├─ problem-10872.c
    ├─ problem-10811.c
@@ -21,7 +20,7 @@ problems/
    ├─ problem-1152.c
    ├─ problem-10828.c
    └─ problem-2164.c
-   (총 10개)
+   (총 9개)
 ```
 
 ## Pull Request 생성
@@ -40,10 +39,10 @@ problems/
   ### 👤 BOJ 아이디
   `your_boj_id` <- 이거 틀리면 안됨 
 
-  ### 📒 제출한 문제 (10개)
+  ### 📒 제출한 문제 (9개)
   | 번호   | 문제 이름      |
   | ------ | -------------- |
-  | 17608   | 막대기       |
+  | 10988   | 팰린드롬인지 확인하기   |
   | …      | …             |
 
 
