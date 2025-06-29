@@ -6,7 +6,7 @@
 1. 이 레포를 **Fork**
 2. VSC에서 clone
 3. `problems/<BOJ_ID>/` 폴더 생성  
-4. 그 안에 C 파일 9개(`problem-<번호>.c`) 생성
+4. 그 안에 C 파일 8개(`problem-<번호>.c`) 생성
 
 ```text
 problems/
@@ -14,13 +14,12 @@ problems/
    ├─ problem-10988.c
    ├─ problem-10872.c
    ├─ problem-10811.c
-   ├─ problem-11659.c
    ├─ problem-2003.c
    ├─ problem-10814.c
    ├─ problem-1152.c
    ├─ problem-10828.c
    └─ problem-2164.c
-   (총 9개)
+   (총 8개)
 ```
 
 ## Pull Request 생성
