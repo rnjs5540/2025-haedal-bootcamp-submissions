@@ -38,7 +38,7 @@ problems/
   ### 👤 BOJ 아이디
   `your_boj_id` <- 이거 틀리면 안됨 
 
-  ### 📒 제출한 문제 (9개)
+  ### 📒 제출한 문제 (8개)
   | 번호   | 문제 이름      |
   | ------ | -------------- |
   | 10988   | 팰린드롬인지 확인하기   |
@@ -48,6 +48,7 @@ problems/
 
 
 
-## 통과 확인 <img width="575" alt="스크린샷 2025-06-30 00 20 23" src="https://github.com/user-attachments/assets/d6000358-7c2a-43d8-a9ba-ba2a93cd28c3" />
+## 통과 확인 
+<img width="575" alt="스크린샷 2025-06-30 00 20 23" src="https://github.com/user-attachments/assets/d6000358-7c2a-43d8-a9ba-ba2a93cd28c3" />
 
 ## 백준에서 코드 제출 할 때 **공개**로 작성해주세요 
